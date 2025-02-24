@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sce-stock-app/static/css/main.92f5bc5c.chunk.css",
+    "main.js": "/sce-stock-app/static/js/main.9bf1eb21.chunk.js",
+    "main.js.map": "/sce-stock-app/static/js/main.9bf1eb21.chunk.js.map",
+    "runtime~main.js": "/sce-stock-app/static/js/runtime~main.9682affe.js",
+    "runtime~main.js.map": "/sce-stock-app/static/js/runtime~main.9682affe.js.map",
+    "static/js/2.f402cf16.chunk.js": "/sce-stock-app/static/js/2.f402cf16.chunk.js",
+    "static/js/2.f402cf16.chunk.js.map": "/sce-stock-app/static/js/2.f402cf16.chunk.js.map",
+    "static/js/3.c02789ba.chunk.js": "/sce-stock-app/static/js/3.c02789ba.chunk.js",
+    "static/js/3.c02789ba.chunk.js.map": "/sce-stock-app/static/js/3.c02789ba.chunk.js.map",
+    "index.html": "/sce-stock-app/index.html",
+    "precache-manifest.57b16b9d6d78a7db1c796e2be78086da.js": "/sce-stock-app/precache-manifest.57b16b9d6d78a7db1c796e2be78086da.js",
+    "service-worker.js": "/sce-stock-app/service-worker.js",
+    "static/css/main.92f5bc5c.chunk.css.map": "/sce-stock-app/static/css/main.92f5bc5c.chunk.css.map"
+  }
+}
