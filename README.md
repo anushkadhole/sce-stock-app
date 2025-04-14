@@ -1,9 +1,9 @@
 # 📈 Real-Time Stock Monitoring System
 
-![Node.js]
-![SQL]
-![Live Updates]
-![License: MIT]
+Node.js
+SQL
+Live Updates
+License: MIT
 
 > ⚡ Monitor 100+ stocks with live updates every 60 seconds. Designed for speed, scalability, and efficiency.
 
