@@ -1,4 +1,5 @@
 # 📈 Real-Time Stock Monitoring System
+![Screenshot (318)](https://github.com/user-attachments/assets/15b23346-e4da-47fc-b009-aab68c361c17)
 
 Node.js
 SQL
